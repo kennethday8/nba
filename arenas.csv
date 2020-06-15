@@ -1,0 +1,33 @@
+arena,city,state,country,lat,long,Tm,Color
+AccorHotels Arena,Paris,IF,FRA,48.839,2.378,,
+American Airlines Arena,Miami,FL,USA,25.781,-80.188,MIA,darkred
+American Airlines Center,Dallas,TX,USA,32.791,-96.81,DAL,blue
+Amway Center,Orlando,FL,USA,28.539,-81.384,ORL,blue
+AT&T Center,San Antonio,TX,USA,29.427,-98.438,SAS,gray
+Bankers Life Fieldhouse,Indianapolis,IN,USA,39.764,-86.156,IND,yellow
+Barclays Center,Brooklyn,NY,USA,40.682,-73.975,BRK,gray
+Capital One Arena,Washington,DC,USA,38.898,-77.021,WAS,darkblue
+Chase Center,San Francisco,CA,USA,37.768,-122.386,GSW,yellow
+Chesapeake Energy Arena,Oklahoma City,OK,USA,35.463,-97.515,OKC,lightblue
+FedExForum,Memphis,TN,USA,35.138,-90.051,MEM,darkblue
+Fiserv Forum,Milwaukee,WI,USA,43.045,-87.918,MIL,green
+Golden 1 Center,Sacramento,CA,USA,38.58,-121.5,SAC,purple
+Little Caesars Arena,Detroit,MI,USA,42.341,-83.055,DET,blue
+Madison Square Garden,New York City,NY,USA,40.751,-73.994,NYK,blue
+Mexico City Arena,Mexico City,MC,MEX,19.496,-99.175,,
+Moda Center,Portland,OR,USA,45.531,-122.667,POR,red
+Pepsi Center,Denver,CO,USA,39.749,-105.008,DEN,lightblue
+Rocket Mortgage FieldHouse,Cleveland,OH,USA,41.496,-81.688,CLE,darkred
+Scotiabank Arena,Toronto,ON,CAN,43.643,-79.379,TOR,red
+Smoothie King Center,New Orleans,LA,USA,29.949,-90.082,NOP,darkblue
+Spectrum Center,Charlotte,NC,USA,35.225,-80.839,CHO,cadetblue
+Staples Center,Los Angeles,CA,USA,34.043,-118.267,LAC,red
+Staples Center,Los Angeles,CA,USA,34.043,-118.267,LAL,purple
+State Farm Arena,Atlanta,GA,USA,33.757,-84.396,ATL,red
+Talking Stick Resort Arena,Phoenix,AZ,USA,33.446,-112.071,PHO,orange
+Target Center,Minneapolis,MN,USA,44.98,-93.276,MIN,darkblue
+TD Garden,Boston,MA,USA,42.366,-71.062,BOS,green
+Toyota Center,Houston,TX,USA,29.751,-95.362,HOU,red
+United Center,Chicago,IL,USA,41.881,-87.674,CHI,red
+Vivint Smart Home Arena,Salt Lake City,UT,USA,40.768,-111.901,UTA,darkblue
+Wells Fargo Center,Philadelphia,PA,USA,39.901,-75.172,PHI,blue
