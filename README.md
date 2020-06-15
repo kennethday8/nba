@@ -1,2 +1,2 @@
-<h1>NBA Minutes Map Generator</h1>
+# NBA Minutes Map Generator
 ![Demo GIF](demo.gif)
